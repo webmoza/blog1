@@ -187,4 +187,4 @@ protocols:
 
     os_repo: "https://github.com/webmoza/blog1"
     os_rcs_type: "git"
-    os_src: "git@github.com:nikhita.github.io.git"
+    os_src: "git@github.com:webmoza/blog1.git"
