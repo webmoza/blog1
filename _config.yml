@@ -10,8 +10,8 @@ baseurl: ""
 url: "https://www.nikhita.dev"
 twitter_username: TheNikhita
 github_username:  nikhita
-disqus_baseurl: "https://nikhita.github.io/"
-disqus_shortname: https-nikinath-github-io
+disqus_baseurl: "https://webmoza.github.io/blog1/"
+disqus_shortname: https://webmoza.github.io/blog1
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
@@ -185,6 +185,6 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikhita/nikhita.github.io"
+    os_repo: "https://github.com/webmoza/blog1"
     os_rcs_type: "git"
     os_src: "git@github.com:nikhita.github.io.git"
